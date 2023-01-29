@@ -360,12 +360,14 @@ background: url(LOGO.png);
 ```
 ## OUTPUT:
 ### Home Page
-![images](images/PageOutput1.png)
+![PageOutput1](https://user-images.githubusercontent.com/119477975/215305332-8ef2305e-60d7-4b2f-8029-5c55eb5313ae.png)
+
 ### Login Page
-![images](images/PageOutput1.png)
+![PageOutput2](https://user-images.githubusercontent.com/119477975/215305339-5f38bb91-c9c9-49d1-adb5-53d7b16bae79.png)
+
 ### SEC Page
-![images](images/PageOutput1.png)
+![PageOutput3](https://user-images.githubusercontent.com/119477975/215305347-02af990a-8c26-4398-8c30-032746385998.png)
 
 ## Result:
-Thus,a web application for event registration designed and executed successfully.
+Thus,a web application for event registration is designed and executed successfully.
 
